@@ -1,0 +1,10 @@
+#!/bin/python/
+import os
+import sys
+import time
+while True:
+  cmd = raw_input("sml>")
+  time.sleep(0.1)
+  if cmd == "print"
+   i = raw_input("sml>print>")
+   print(i)
