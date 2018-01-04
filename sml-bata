@@ -8,3 +8,5 @@ while True:
   if cmd == "print"
    i = raw_input("sml>print>")
    print(i)
+  if cmd == "quit"
+   break
